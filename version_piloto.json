@@ -1,0 +1,9 @@
+{
+ "version": "2.3.0",
+ "fecha": "2026-11-10",
+ "notas": "Primera version por internet. Boton Actualizar ahora, revision rapida de los botones del celular y Costeo sin pedir receta para el labne.",
+ "completo": {
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.0/PanaderiaPOS_2.3.0_completo.zip",
+  "requiere_desde": "0"
+ }
+}
