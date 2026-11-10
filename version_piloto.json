@@ -1,13 +1,13 @@
 {
- "version": "2.3.1",
+ "version": "2.3.2",
  "fecha": "2026-11-10",
- "notas": "Barra de avance al actualizar, aviso si abres una copia del programa, boton de acceso directo en el Escritorio y version visible arriba.",
+ "notas": "Arreglo: el boton Actualizar ya instala la version nueva (antes cerraba el programa sin copiar nada).",
  "completo": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.1/PanaderiaPOS_2.3.1_completo.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.2/PanaderiaPOS_2.3.2_completo.zip",
   "requiere_desde": "0"
  },
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.1/PanaderiaPOS_2.3.1.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.2/PanaderiaPOS_2.3.2.zip",
   "requiere_desde": "2.3.0"
  }
 }
