@@ -1,13 +1,13 @@
 {
- "version": "2.3.2",
+ "version": "2.3.3",
  "fecha": "2026-11-10",
- "notas": "Arreglo: el boton Actualizar ya instala la version nueva (antes cerraba el programa sin copiar nada).",
+ "notas": "Textos generales: Variante del cliente y letrero de Quejas",
  "completo": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.2/PanaderiaPOS_2.3.2_completo.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.3/PanaderiaPOS_2.3.3_completo.zip",
   "requiere_desde": "0"
  },
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.2/PanaderiaPOS_2.3.2.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.3/PanaderiaPOS_2.3.3.zip",
   "requiere_desde": "2.3.0"
  }
 }
