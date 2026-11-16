@@ -1,13 +1,13 @@
 {
- "version": "2.3.4",
- "fecha": "2026-11-14",
- "notas": "Produccion: boton Agregar un producto. Arreglos de la auditoria: anular notas pagadas, venta doble en entrega parcial, cobro del repartidor, importadores, envio en la caja, nube mas segura y ventanas que ya no se congelan.",
+ "version": "2.3.5",
+ "fecha": "2026-11-16",
+ "notas": "Lugares guardados (super, proveedores) y sucursales de clientes: cada sucursal sale como su propia parada en la ruta.",
  "completo": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.4/PanaderiaPOS_2.3.4_completo.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.5/PanaderiaPOS_2.3.5_completo.zip",
   "requiere_desde": "0"
  },
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.4/PanaderiaPOS_2.3.4.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.5/PanaderiaPOS_2.3.5.zip",
   "requiere_desde": "2.3.0"
  }
 }
