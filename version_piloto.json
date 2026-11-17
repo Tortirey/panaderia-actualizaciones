@@ -1,13 +1,13 @@
 {
- "version": "2.3.6",
+ "version": "2.3.7",
  "fecha": "2026-11-17",
- "notas": "Ordenes de compra de insumos: calcula cuanto pedir segun consumo, existencia y dias de entrega; el repartidor recibe la tarea al autorizar o se copia el texto. Produccion confirma en el celular la mercancia que llego.",
+ "notas": "Ordenes de compra por WhatsApp o correo (se abre con el mensaje listo); editar proveedores; insumos en paquetes. La seccion de pedidos por WhatsApp queda oculta mientras sigue en prueba.",
  "completo": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.6/PanaderiaPOS_2.3.6_completo.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.7/PanaderiaPOS_2.3.7_completo.zip",
   "requiere_desde": "0"
  },
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.6/PanaderiaPOS_2.3.6.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.7/PanaderiaPOS_2.3.7.zip",
   "requiere_desde": "2.3.0"
  }
 }
