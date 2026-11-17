@@ -1,13 +1,13 @@
 {
- "version": "2.3.8",
+ "version": "2.3.9",
  "fecha": "2026-11-17",
- "notas": "Proveedores propios (como se compra, dias de entrega por proveedor). Insumos en cajas, paquetes y piezas. Empaque por paquete: las bolsas se descuentan solas con cada paquete hecho (Costeo > Empaque por paquete).",
+ "notas": "Plantillas de receta en el Recetario del celular (ej. Plantilla de tortilla) para dar de alta recetas mas rapido.",
  "completo": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.8/PanaderiaPOS_2.3.8_completo.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.9/PanaderiaPOS_2.3.9_completo.zip",
   "requiere_desde": "0"
  },
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.8/PanaderiaPOS_2.3.8.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.9/PanaderiaPOS_2.3.9.zip",
   "requiere_desde": "2.3.0"
  }
 }
