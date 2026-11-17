@@ -1,13 +1,13 @@
 {
- "version": "2.3.5",
- "fecha": "2026-11-16",
- "notas": "Lugares guardados (super, proveedores) y sucursales de clientes: cada sucursal sale como su propia parada en la ruta.",
+ "version": "2.3.6",
+ "fecha": "2026-11-17",
+ "notas": "Ordenes de compra de insumos: calcula cuanto pedir segun consumo, existencia y dias de entrega; el repartidor recibe la tarea al autorizar o se copia el texto. Produccion confirma en el celular la mercancia que llego.",
  "completo": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.5/PanaderiaPOS_2.3.5_completo.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.6/PanaderiaPOS_2.3.6_completo.zip",
   "requiere_desde": "0"
  },
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.5/PanaderiaPOS_2.3.5.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.6/PanaderiaPOS_2.3.6.zip",
   "requiere_desde": "2.3.0"
  }
 }
