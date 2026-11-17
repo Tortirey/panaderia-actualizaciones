@@ -1,13 +1,13 @@
 {
- "version": "2.3.7",
+ "version": "2.3.8",
  "fecha": "2026-11-17",
- "notas": "Ordenes de compra por WhatsApp o correo (se abre con el mensaje listo); editar proveedores; insumos en paquetes. La seccion de pedidos por WhatsApp queda oculta mientras sigue en prueba.",
+ "notas": "Proveedores propios (como se compra, dias de entrega por proveedor). Insumos en cajas, paquetes y piezas. Empaque por paquete: las bolsas se descuentan solas con cada paquete hecho (Costeo > Empaque por paquete).",
  "completo": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.7/PanaderiaPOS_2.3.7_completo.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.8/PanaderiaPOS_2.3.8_completo.zip",
   "requiere_desde": "0"
  },
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.7/PanaderiaPOS_2.3.7.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.8/PanaderiaPOS_2.3.8.zip",
   "requiere_desde": "2.3.0"
  }
 }
