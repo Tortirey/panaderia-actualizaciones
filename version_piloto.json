@@ -1,13 +1,13 @@
 {
- "version": "2.3.10",
- "fecha": "2026-11-18",
- "notas": "Las ventas (notas, renglones y abonos) se suben a la nube para que el servidor las lea sin copiar la base. Nube: actualizacion 33 (se aplica sola).",
+ "version": "2.3.11",
+ "fecha": "2026-11-19",
+ "notas": "Los pedidos de la PC y los cierres de produccion suben a la nube (para el bot de WhatsApp). Nube 34.",
  "completo": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.10/PanaderiaPOS_2.3.10_completo.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.11/PanaderiaPOS_2.3.11_completo.zip",
   "requiere_desde": "0"
  },
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.10/PanaderiaPOS_2.3.10.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.3.11/PanaderiaPOS_2.3.11.zip",
   "requiere_desde": "2.3.0"
  }
 }
