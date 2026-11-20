@@ -1,13 +1,13 @@
 {
- "version": "2.4.0",
+ "version": "2.4.1",
  "fecha": "2026-11-19",
- "notas": "Actualizaciones sin compilar (solo codigo) y hora de cierre de produccion en la nube. Incluye pedidos y cierres a la nube. Nube 35. Se instala una vez con el paquete completo.",
+ "notas": "Casilla corte con maquina, palabras del oficio, rueda del mouse segura y acentos",
+ "zip": {
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.1/PanaderiaPOS_2.4.1.zip",
+  "requiere_desde": "2.4.0"
+ },
  "completo": {
   "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.0/PanaderiaPOS_2.4.0_completo.zip",
   "requiere_desde": "0"
- },
- "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.0/PanaderiaPOS_2.4.0.zip",
-  "requiere_desde": "2.3.0"
  }
 }
