@@ -1,9 +1,9 @@
 {
- "version": "2.4.1",
- "fecha": "2026-11-19",
- "notas": "Casilla corte con maquina, palabras del oficio, rueda del mouse segura y acentos",
+ "version": "2.4.2",
+ "fecha": "2026-11-20",
+ "notas": "Candado receta-masa, ordenes de compra mejoradas (palomitas, repetir, aviso a planta, costo, unidades ligadas), auditorias de masas e insumos",
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.1/PanaderiaPOS_2.4.1.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.2/PanaderiaPOS_2.4.2.zip",
   "requiere_desde": "2.4.0"
  },
  "completo": {
