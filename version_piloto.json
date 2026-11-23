@@ -1,9 +1,9 @@
 {
- "version": "2.4.2",
- "fecha": "2026-11-20",
- "notas": "Candado receta-masa, ordenes de compra mejoradas (palomitas, repetir, aviso a planta, costo, unidades ligadas), auditorias de masas e insumos",
+ "version": "2.4.3",
+ "fecha": "2026-11-23",
+ "notas": "Ventas: editar venta en Ventas del dia; Clientes: sucursales (sin Principal, Leer link); Facturas y cuentas pendientes juntas; tandas de batidora (25 kg) y redondeo a costal; pedidos de la planta a ordenes de compra y des-confirmar llegada.",
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.2/PanaderiaPOS_2.4.2.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.3/PanaderiaPOS_2.4.3.zip",
   "requiere_desde": "2.4.0"
  },
  "completo": {
