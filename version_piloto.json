@@ -1,9 +1,9 @@
 {
- "version": "2.4.3",
- "fecha": "2026-11-23",
- "notas": "Ventas: editar venta en Ventas del dia; Clientes: sucursales (sin Principal, Leer link); Facturas y cuentas pendientes juntas; tandas de batidora (25 kg) y redondeo a costal; pedidos de la planta a ordenes de compra y des-confirmar llegada.",
+ "version": "2.4.4",
+ "fecha": "2026-11-24",
+ "notas": "2.4.4: la nota del reparto se rehace en la nube al instante cuando el repartidor cambia cantidades o el pago; la PC sincroniza en segundos esos cambios; facturas por semana; costal de harina a 1 kg.",
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.3/PanaderiaPOS_2.4.3.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.4/PanaderiaPOS_2.4.4.zip",
   "requiere_desde": "2.4.0"
  },
  "completo": {
