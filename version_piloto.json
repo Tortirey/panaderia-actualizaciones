@@ -1,9 +1,9 @@
 {
- "version": "2.4.5",
- "fecha": "2026-11-24",
- "notas": "2.4.5: la harina se calcula con gramos de mas por pieza y se redondea hacia arriba; la divisora se marca en la receta de cada masa (al instalarse se desmarcan todos los productos); bolsas por producto.",
+ "version": "2.4.6",
+ "fecha": "2026-11-25",
+ "notas": "2.4.6: Nube total (todo apagado: conteo de insumos, ventas con bandeja y folio sin internet, pedidos, datos de clientes, saldos y avisos). Incluye la 2.4.5: gramos de mas, harina hacia arriba, divisora en la receta, bolsas por producto.",
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.5/PanaderiaPOS_2.4.5.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.6/PanaderiaPOS_2.4.6.zip",
   "requiere_desde": "2.4.0"
  },
  "completo": {
