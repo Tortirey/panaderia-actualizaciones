@@ -1,9 +1,9 @@
 {
- "version": "2.4.4",
+ "version": "2.4.5",
  "fecha": "2026-11-24",
- "notas": "2.4.4: la nota del reparto se rehace en la nube al instante cuando el repartidor cambia cantidades o el pago; la PC sincroniza en segundos esos cambios; facturas por semana; costal de harina a 1 kg.",
+ "notas": "2.4.5: la harina se calcula con gramos de mas por pieza y se redondea hacia arriba; la divisora se marca en la receta de cada masa (al instalarse se desmarcan todos los productos); bolsas por producto.",
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.4/PanaderiaPOS_2.4.4.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.5/PanaderiaPOS_2.4.5.zip",
   "requiere_desde": "2.4.0"
  },
  "completo": {
