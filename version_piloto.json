@@ -1,9 +1,9 @@
 {
- "version": "2.4.6",
- "fecha": "2026-11-25",
- "notas": "2.4.6: Nube total (todo apagado: conteo de insumos, ventas con bandeja y folio sin internet, pedidos, datos de clientes, saldos y avisos). Incluye la 2.4.5: gramos de mas, harina hacia arriba, divisora en la receta, bolsas por producto.",
+ "version": "2.4.7",
+ "fecha": "2026-11-26",
+ "notas": "2.4.7: la nube al centro (firma en notas a credito, cuenta de la caja, catalogo en la nube, sin casillas de Nube total)",
  "zip": {
-  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.6/PanaderiaPOS_2.4.6.zip",
+  "url": "https://github.com/Tortirey/panaderia-actualizaciones/releases/download/v2.4.7/PanaderiaPOS_2.4.7.zip",
   "requiere_desde": "2.4.0"
  },
  "completo": {
